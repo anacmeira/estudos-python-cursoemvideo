@@ -1,0 +1,7 @@
+print("DISSECANDO UMA FRASE")
+frase = str(input("Digite uma frase qualquer:")).strip()
+f = frase.upper()
+print("Na Frase {}".format(frase))
+print("A letra [A] aparece no total {} vezes".format(f.count("A")))
+print("A letra [A] aparece pela primeira vez na posição {}".format(f.find("A")+1))
+print("A letra [A] aparece pela última vez na posição {}".format(f.rfind("A")+1))
