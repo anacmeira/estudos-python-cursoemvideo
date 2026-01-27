@@ -12,10 +12,10 @@ Os códigos aqui presentes fazem parte da minha trilha de aprendizado no **Curso
 * **Mundo 2:** Estruturas de controle (condições e repetições).
 * **Mundo 3:** Estruturas compostas e módulos avançados.
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 * **Linguagem:** Python 3
 * **Versionamento:** Git & GitHub
 * **Ambiente:** VS Code
 
 ---
-"O plantio é opcional, mas a colheita é obrigatória." - Foco total na consistência! 💎
+"O plantio é opcional, mas a colheita é obrigatória." - Foco total na consistência!!
